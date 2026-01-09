@@ -88,4 +88,4 @@ By the definition of variance, we have $$\mathbb{E}[D^2] = \mathbb{E}[D]^2 + \te
 
 where the last inequality follows from variance being nonnegative. Furthermore, since $$\text{Var}(D) = 0$$ if and only if $$D$$ is deterministic, which is equivalent to saying $$G$$ is $$k$$-regular, we have $$\mathbb{E}[D^*] \geq \mathbb{E}[D]$$ with equality iff $$G$$ is $$k$$-regular for some $$k$$. $$\square$$
 
-There is still more from this section, but this post has gotten long, so I'll end this one here. Stay tuned for the next post on random graphs where we prove that you have no friends (relative to your friends).
+There is still more from this section, but this post has gotten long, so I'll end this one here. Stay tuned for the next post on random graphs where we prove that you have very few friends (relative to your friends).
