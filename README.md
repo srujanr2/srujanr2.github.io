@@ -1,2 +1,3 @@
-# Trying to make a blog at
-# `srujanr2.github.io'
+Hello world!
+
+Here's a [link to my blog!](http://srujanr2.github.io)
